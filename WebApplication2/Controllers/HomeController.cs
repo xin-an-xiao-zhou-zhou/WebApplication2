@@ -12,7 +12,8 @@ namespace WebApplication2.Controllers
         {
             return View();
         }
-        //我二提问题是我
+        //我二提问题是我哈哈
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
